@@ -1,0 +1,35 @@
+_repo: Legendoja-Kristuksesta_48658
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Helmi Setälä
+    - Setala, Helmi
+    - Setälä, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2015-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48658'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Legendoja Kristuksesta
+url: http://www.gutenberg.org/ebooks/48658
